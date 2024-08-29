@@ -23,7 +23,7 @@ Abra a IDE STS, importe o projeto e inicie a aplicação com a opção **Run As 
 
 ## 3. Testar
 
-Agora que o backend está rodando, você pode testar as funcionalidades pelo seu Terminal ou Postman (aconselho usar o terminal).
+Agora que o backend está rodando, você pode testar as funcionalidades pelo seu Terminal ou Postman.
 No projeto há 3 arquivos que podem ser testados, nomeados como: "QNAB-5.text", "QNAB-6.text" e "QNAB-7.text"
 
 
