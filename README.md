@@ -30,15 +30,15 @@ PELO TERMINAL:
 No seu terminal, abra o caminho em que o prejeto se encontra:
  ```bash
     cd C:\Caminho\Para\O\Projeto\backend
-    ```
+ ```
 Entre na pasta de files:
  ```bash
     cd files
-    ```
+ ```
 Para inserir um dos arquivos insira o seguinte comando (inserindo o CNAB-5.txt por exemplo):
  ```bash
     C:\Caminho\Para\O\Projeto\backend\files curl -X POST -F "file=@CNAB-5.txt" http://localhost:8080/cnab/upload
-    ```
+ ```
 Agora deve ter aparecido a mensagem: "Processamento iniciado!"
 
 Abra o console do H2 e veja a tabela transacoes:
