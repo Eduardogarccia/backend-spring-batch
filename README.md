@@ -27,7 +27,7 @@ Agora que o backend está rodando, você pode testar as funcionalidades pelo seu
 No projeto há 3 arquivos que podem ser testados, nomeados como: "QNAB-5.text", "QNAB-6.text" e "QNAB-7.text"
 
 
-# PELO TERMINAL:
+### PELO TERMINAL:
 
 No seu terminal, abra o caminho em que o prejeto se encontra:
  ```bash
@@ -50,7 +50,7 @@ Abra o console do H2 e veja a tabela transacoes:
 Agora você ja pode ver os dados na tabela transações.
 
 
-# PELO POSTMAN:
+### PELO POSTMAN:
 
 Abra o Postman e defina um método http POST com a seguinte url: http://localhost:8080/cnab/upload
 
