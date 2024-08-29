@@ -1,6 +1,6 @@
 # SpringBatch (inserindo arquivo CNAB no banco H2)
 
-Esse BackEnd usa o SpringBatch para fazer upload de dados de um arquivo do tipo CNAB no banco de dados H2. Nesse projeto é garantida a unicidade dos uploads, não sendo possível enviar dois arquivos de mesmo nome.
+Esse BackEnd usa o SpringBatch para fazer upload de dados de um arquivo do tipo CNAB no banco de dados H2 via api rest. Nesse projeto é garantida a unicidade dos uploads, não sendo possível enviar dois arquivos de mesmo nome.
 
 ## Requisitos
 
